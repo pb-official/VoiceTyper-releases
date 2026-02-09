@@ -48,7 +48,13 @@
 
 이 프로그램이 유용하셨다면 커피 한 잔 후원 부탁드립니다 ☕
 
-👉 [카카오페이로 후원하기](https://qr.kakaopay.com/FMUehKbRf)
+<p align="center">
+  <a href="https://qr.kakaopay.com/FMUehKbRf">
+    <img src="kakaopay-qr.png" alt="카카오페이 후원 QR코드" width="250">
+  </a>
+  <br>
+  <em>카카오페이로 후원하기</em>
+</p>
 
 ## 문의
 

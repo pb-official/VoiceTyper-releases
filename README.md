@@ -44,6 +44,12 @@
 | 자동 시작 | Windows 부팅 시 자동 실행 |
 | 소리 알림 | 녹음 시작/종료 효과음 |
 
+## 후원
+
+이 프로그램이 유용하셨다면 커피 한 잔 후원 부탁드립니다 ☕
+
+👉 [카카오페이로 후원하기](https://qr.kakaopay.com/FMUehKbRf)
+
 ## 문의
 
 문제가 있으면 [Issues](https://github.com/pb-official/VoiceTyper-releases/issues)에 남겨주세요.
